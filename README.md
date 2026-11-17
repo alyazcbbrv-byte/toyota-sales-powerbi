@@ -1,7 +1,7 @@
 # Toyota Satış Analizi: Power BI Dashboard
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-12%20%C3%B6l%C3%A7%C3%BC-14213D)
+![DAX](https://img.shields.io/badge/DAX-11%20%C3%B6l%C3%A7%C3%BC-14213D)
 ![Pages](https://img.shields.io/badge/S%C9%99hif%C9%99l%C9%99r-3-5B5BD6)
 ![Data](https://img.shields.io/badge/Data-672%20765%20s%C9%99tir-2A9D8F)
 
