@@ -130,6 +130,6 @@ Power BI Desktop · DAX · Power Query · Time Intelligence · Star schema model
 
 ## Müəllif
 
-**Alyaz Cabbarova**: [GitHub](https://github.com/alyazcbbrv-byte)
+**Alyaz Cabbarova**: [GitHub](https://github.com/alyazcbbrv-byte) · [LinkedIn](https://www.linkedin.com/in/alyaz-cabbarova-450a6140b) · [alyazcbbrv@gmail.com](mailto:alyazcbbrv@gmail.com)
 
 Digər layihə: [Amazon satış analizi (Python + Power BI)](https://github.com/alyazcbbrv-byte/amazon-sales-analysis)
