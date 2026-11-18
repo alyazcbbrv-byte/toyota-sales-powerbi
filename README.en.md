@@ -82,7 +82,7 @@ Measures are grouped into display folders. Full code and explanations: [docs/DAX
 
 Time comparisons use the **latest date in the selection**, so they are correct even when no year or month is selected.
 
-## Issues found and fixed during the review
+## Quality check: issues found and fixed
 
 | Problem | Fix |
 |---|---|
@@ -102,7 +102,7 @@ Time comparisons use the **latest date in the selection**, so they are correct e
 
 ## Skills demonstrated
 
-Power BI · DAX (time intelligence, `LASTNONBLANK`, `SAMEPERIODLASTYEAR`) · star-schema modelling · dashboard design and navigation · data-quality review of an existing report
+Power BI · DAX (time intelligence, `LASTNONBLANK`, `SAMEPERIODLASTYEAR`) · star-schema modelling · dashboard design and navigation · report quality assurance
 
 ## Author
 

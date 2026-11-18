@@ -91,9 +91,9 @@ Ulduz sxemi (star schema): iki fakt cədvəli və onları birləşdirən üç ö
 
 İl və ay müqayisələri seçimdəki **son tarixə** görə hesablanır, ona görə filtr seçilməyəndə də düzgün nəticə verir.
 
-## Layihə zamanı düzəldilən səhvlər
+## Keyfiyyət yoxlaması: tapılan və düzəldilən səhvlər
 
-İlkin hesabat yoxlanıldı və aşağıdakılar düzəldildi:
+Hesabatı təqdim etməzdən əvvəl keyfiyyət yoxlamasından keçirdim, tapdığım problemləri düzəltdim:
 
 | Problem | Düzəliş |
 |---|---|
